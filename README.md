@@ -17,9 +17,9 @@
   
   I am a final-year cybersecurity student at Teesside University London, specializing in securing cloud environments, automating threat detection, and enforcing zero-trust policies.
 
-  - ☁️ **Cloud & IaC:** Building and securing infrastructure using AWS, Azure, and Terraform.
+  - ☁️ **Cloud & IaC:** Building and securing infrastructure using AWS, Azure.
   - 🔐 **Defense:** Penetration Testing, IAM Least-Privilege, and Vulnerability Scanning.
-  - ⚙️ **Automation:** Writing Python and Bash scripts to automate security audits.
+  - ⚙️ **Automation:** Writing AI agent policies.
   - 🏆 **Achievements:** £400 Hack2Win Winner (TryHackMe) & Google AI Studio Prototype Developer.
   - 📫 **Let's Connect:** [LinkedIn](https://linkedin.com/in/phyowai).
   
