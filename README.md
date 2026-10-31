@@ -1,20 +1,30 @@
-# Hi there, I am smick 👋
+<div align="center">
+  <!-- Transparent Animated Header instead of a background photo -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=SECURE+CLOUD+ARCHITECTURE;INFRASTRUCTURE+AS+CODE;THREAT+DETECTION+%26+DEFENSE" alt="Typing SVG" />
+  </a>
+</div>
 
-I am a final-year cybersecurity student at Teesside University London with a strong foundation in penetration testing and cloud security. I am currently building hands-on experience with secure cloud architectures and actively seeking entry-level Cloud Security Engineer roles. 
+<br>
 
-**🏆 Certifications & Achievements**
-* **£400 Hack2Win Winner:** TryHackMe
-* **Develop AI-Powered Prototypes in Google AI Studio:** Google 
+<div>
+  <!-- Right-side Clean Tech Icon (AWS Logo) instead of a messy GIF -->
+  <img align="right" width="180" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" alt="Cloud Infrastructure" />
 
-**💻 Technical Skills**
-* **Cloud & Infrastructure:** AWS, Azure, Terraform, Infrastructure as Code (IaC)
-* **Security:** Penetration Testing, IAM, Network Security, Vulnerability Scanning
-* **Languages & Scripting:** Python, Bash, Linux
+  ## 🛡️ Hi 👋, I'm Phyo Wai!
+  
+  *Aspiring Cloud Security Engineer*
+  
+  I am a final-year cybersecurity student at Teesside University London, specializing in securing cloud environments, automating threat detection, and enforcing zero-trust policies.
 
-**🚀 Featured Projects**
-* **Cloud Security Automation:** Wrote Python scripts to audit cloud environments for publicly accessible storage and permissive firewall rules.
-* **Secure Cloud Deployment:** Developed Terraform templates to deploy isolated networks enforcing strict least-privilege IAM roles. 
-* **AI Security Integration:** Exploring AI-driven threat detection leveraging my Google AI Studio prototyping experience.
+  - ☁️ **Cloud & IaC:** Building and securing infrastructure using AWS, Azure, and Terraform.
+  - 🔐 **Defense:** Penetration Testing, IAM Least-Privilege, and Vulnerability Scanning.
+  - ⚙️ **Automation:** Writing Python and Bash scripts to automate security audits.
+  - 🏆 **Achievements:** £400 Hack2Win Winner (TryHackMe) & Google AI Studio Prototype Developer.
+  - 📫 **Let's Connect:** [LinkedIn](https://linkedin.com/in/phyowai).
+  
+  <br><br>
 
-**📫 Let's Connect**
-* [LinkedIn](https://linkedin.com/in/phyowai)
+  <!-- Profile Views Badge -->
+  <img src="https://komarev.com/ghpvc/?username=smick43&color=00ff99&style=flat-square&label=SECURE+CONNECTIONS" alt="smick43 profile views" />
+</div>
