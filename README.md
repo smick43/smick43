@@ -11,7 +11,7 @@
 
   ### 🛡️ Hi 👋, I'm Phyo Wai (smick43)
   
-  ***Aspiring Cloud Security Engineer***
+  ***Seeking Cloud Security Engineer Junior Position***
   
   I am a final-year cybersecurity student at Teesside University London, specializing in securing cloud environments, automating threat detection, and enforcing zero-trust policies.
 
