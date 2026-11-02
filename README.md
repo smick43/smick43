@@ -43,6 +43,6 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=smick43&show_icons=true&theme=radical&hide_border=true" alt="smick43 GitHub Stats" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smick43&theme=radical&hide_border=true" alt="smick43 GitHub Streak" />
 </p>
