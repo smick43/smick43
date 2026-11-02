@@ -9,7 +9,7 @@
 <div>
   <img align="right" width="180" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" alt="AWS Logo" />
 
-  ### 🛡️ Hi 👋, I'm Phyo Wai (smick43)
+  ### 🛡️ Hi 👋, I'm smick43
   
   ***Seeking Cloud Security Engineer Junior Position***
   
